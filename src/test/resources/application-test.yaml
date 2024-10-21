@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/petlife
+    username: seu-usuario
+    password: sua-senha
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

@@ -7,24 +7,26 @@
 
 ## Tecnologias Utilizadas
 
-- Java 11
-- Spring Boot 2.5
-- PostgreSQL 13
-- Swagger 2.0
-- Maven
+- Spring Boot: 3.3.4
+- H2 Database: 2.1.214
+- Lombok: 1.18.24
+- MapStruct: 1.6.2
+- Springdoc OpenAPI: 2.6.0
+- Therapi Runtime Javadoc: 0.15.0
+- Jacoco: 0.8.12
+- Maven Compiler Plugin: 3.8.1
 
 ## Pré-requisitos
 
-- JDK 11
-- Maven 3.6+
-- PostgreSQL 13+
+- JDK: 17
+- Maven: 3.8.6
 
 ## Instalação
 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://link-do-repo.git
+   git clone https://github.com/Danielonemore/Projeto-PET-LIFE.git
    ```
 
 2. **Navegue até o diretório do projeto:**

@@ -24,13 +24,13 @@
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://link-do-repo.git
+   git clone https://github.com/Danielonemore/Projeto-PET-LIFE.git
    ```
 
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-   cd diretorio-do-projeto
+   cd trabalho-api-main
    ```
 
 3. **Configure o banco de dados:**

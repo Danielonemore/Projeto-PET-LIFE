@@ -1,23 +1,15 @@
-# Projeto {CLÍNICA VETERINÁRIA- PET LIFE} - Backend (trabalho-api)
+# Projeto: CLÍNICA VETERINÁRIA- PET LIFE - Backend (trabalho-api)
 
 ## Descrição
 
-{API para o Sistema de Gerenciamento da Clínica Veterinária - PetLife. Essa API permite o gerenciamento de animais, donos, médicos veterinários, consultas, exames, agendamentos e muito mais.
-}
+API para o Sistema de Gerenciamento da Clínica Veterinária - PetLife. Essa API permite o gerenciamento de animais, donos, médicos veterinários, consultas, exames, agendamentos e muito mais.
 
 ## Tecnologias Utilizadas
-
-- Spring Boot: 3.3.4
-- H2 Database: 2.1.214
-- Lombok: 1.18.24
-- MapStruct: 1.6.2
-- Springdoc OpenAPI: 2.6.0
-- Therapi Runtime Javadoc: 0.15.0
-- Jacoco: 0.8.12
-- Maven Compiler Plugin: 3.8.1
+- Frontend: React
+- Backend: Spring Boot
+- Banco de Dados: PostgreSQL
 
 ## Pré-requisitos
-
 - JDK: 17
 - Maven: 3.8.6
 
@@ -32,7 +24,7 @@
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-   cd diretorio-do-projeto
+   cd Projeto-PET-LIFE
    ```
 
 3. **Configure o banco de dados:**
